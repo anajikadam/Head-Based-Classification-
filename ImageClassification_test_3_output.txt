@@ -1,0 +1,34 @@
+model loaded.....
+1, img path: data/test/apple/apple_414.png
+Predicted Fruit name: apple with score 0.986240565776825
+==============================================================================================================
+
+2, img path: data/test/apple/apple_499.png
+Predicted Fruit name: apple with score 0.9831005334854126
+==============================================================================================================
+
+3, img path: data/test/asian pear/asian pear_415.png
+Predicted Fruit name: asian pear with score 0.9857025742530823
+==============================================================================================================
+
+4, img path: data/test/asian pear/asian pear_418.png
+Predicted Fruit name: asian pear with score 0.9865736961364746
+==============================================================================================================
+
+5, img path: data/test/banana/banana_416.png
+Predicted Fruit name: banana with score 0.9880311489105225
+==============================================================================================================
+
+6, img path: data/test/banana/banana_421.png
+Predicted Fruit name: banana with score 0.9864261150360107
+==============================================================================================================
+
+7, img path: data/test/cherry/cherry_410.png
+Predicted Fruit name: cherry with score 0.9858874678611755
+==============================================================================================================
+
+8, img path: data/test/cherry/cherry_419.png
+Predicted Fruit name: cherry with score 0.985627293586731
+==============================================================================================================
+
+All prediction correct.......
